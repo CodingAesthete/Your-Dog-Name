@@ -60,7 +60,7 @@ button {
   position: relative;
 }
 
-.img-cont img {
+.img-cont .main-img {
   width: 100%;
   height: 100%;
 }
@@ -78,4 +78,18 @@ button {
 
 .bottom-text {
   bottom: 3vh;
+}
+
+.flag-img {
+  position: absolute;
+  width: 12vh;
+  color: white;
+}
+
+.left {
+  left: -6rem;
+}
+
+.right {
+  right: -6rem;
 }
